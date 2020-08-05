@@ -29,6 +29,7 @@ if(isset($_POST['submit']))
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/datepicker3.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
+	<link rel="icon" href="./assets/images/favicon.png">
 	
 </head>
 <body>
